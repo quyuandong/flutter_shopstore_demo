@@ -1,0 +1,2 @@
+# flutter_shopstore_demo
+用flutter技术来完成的一个简单的购物商店demo
